@@ -1,5 +1,14 @@
-<h1>Hi, I'm Jemar! </h1>
-System Administrator | System Engineer | Cloud Engineer
+<h1>Hi, I'm Jemar!</h1>
+
+Welcome to my Github!
+Feel free to know more about my skills and projects.
+
+<h2>Profession</h2>
+
+- System Administrator
+- System Engineer
+- Cloud Engineer
+
 
 <h2>System Administration Projects:</h2>
 

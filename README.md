@@ -1,0 +1,18 @@
+<h1>Hi, I'm Jemar! </h1>
+System Administrator | System Engineer | Cloud Engineer
+
+<h2>System Administration Projects:</h2>
+
+- [Get Cisco Switch Info](https://github.com/kalabasa01/get-cswitchinfo)
+- [Get In-Active Security Group](https://github.com/kalabasa01/get-inactive-secgroup)
+- [Get In-Active Distro Group](https://github.com/kalabasa01/get-inactive-distrogroup)
+
+<h2> 🤳 Connect with me:</h2>
+  
+[<img align="left" alt="Jemar Cañas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Jemar Cañas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[linkedin]: https://www.linkedin.com/in/jemarcns
+[telegram]: https://t.me/jemarcns
+[facebook]: https://www.facebook.com/jmarcns

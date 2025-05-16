@@ -7,7 +7,7 @@ Feel free to know more about my skills and projects.
 [kalabasa01](https://github.com/kalabasa01)
 
 
-<h2>Profession</h2>
+<h2>Profession:</h2>
 
 - System Administrator
 - System Engineer

@@ -1,6 +1,6 @@
 <h1>Hi!</h1>
 
-Welcome to my Github! <br />
+Welcome to my Webpage! <br />
 Feel free to know more about my skills and projects.
 
 **Visit my Github Account:**

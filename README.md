@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jemar!</h1>
+<h1>Hi!</h1>
 
 Welcome to my Github! <br />
 Feel free to know more about my skills and projects.

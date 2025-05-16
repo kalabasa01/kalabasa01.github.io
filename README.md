@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jemar!</h1>
 
-Welcome to my Github!
+Welcome to my Github! <br />
 Feel free to know more about my skills and projects.
 
 <h2>Profession</h2>

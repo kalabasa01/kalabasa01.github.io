@@ -20,6 +20,7 @@ Feel free to know more about my skills and projects.
 - [Get In-Active Security Group](https://github.com/kalabasa01/get-inactive-secgroup)
 - [Get In-Active Distro Group](https://github.com/kalabasa01/get-inactive-distrogroup)
 - [Get Broadcast-Storm](https://github.com/kalabasa01/get-broadcast-storm)
+- [Get Remote Computer Info](https://github.com/kalabasa01/get-remotepc-info)
 
 
 <h2> 🤳 Connect with me:</h2>

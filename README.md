@@ -16,13 +16,13 @@ Feel free to know more about my skills and projects.
   
 <h2>System Administration Projects:</h2>
 
-- [Get Cisco Switch Info](https://github.com/kalabasa01/get-cswitchinfo)
-- [Get In-Active Security Group](https://github.com/kalabasa01/get-inactive-secgroup)
-- [Get In-Active Distro Group](https://github.com/kalabasa01/get-inactive-distrogroup)
-- [Get Broadcast-Storm](https://github.com/kalabasa01/get-broadcast-storm)
-- [Get Remote Computer Info](https://github.com/kalabasa01/get-remotepc-info)
-- [Scripts for Daily Use](https://github.com/kalabasa01/Scripts-for-Daily-use)
-  - [Anydesk Reset](https://github.com/kalabasa01/Scripts-for-Daily-use/tree/main/Anydesk%20Reset)
+- [Get Cisco Switch Info](https://github.com/kalabasa01/get-cswitchinfo){:target="_blank" rel="noopener noreferrer"}
+- [Get In-Active Security Group](https://github.com/kalabasa01/get-inactive-secgroup){:target="_blank" rel="noopener noreferrer"}
+- [Get In-Active Distro Group](https://github.com/kalabasa01/get-inactive-distrogroup){:target="_blank" rel="noopener noreferrer"}
+- [Get Broadcast-Storm](https://github.com/kalabasa01/get-broadcast-storm){:target="_blank" rel="noopener noreferrer"}
+- [Get Remote Computer Info](https://github.com/kalabasa01/get-remotepc-info){:target="_blank" rel="noopener noreferrer"}
+- [Scripts for Daily Use](https://github.com/kalabasa01/Scripts-for-Daily-use){:target="_blank" rel="noopener noreferrer"}
+  - [Anydesk Reset](https://github.com/kalabasa01/Scripts-for-Daily-use/tree/main/Anydesk%20Reset){:target="_blank" rel="noopener noreferrer"}
 
 
 <h2> 🤳 Connect with me:</h2>

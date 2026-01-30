@@ -16,7 +16,7 @@ Feel free to know more about my skills and projects.
   
 <h2>System Administration Projects:</h2>
 
-- [Get Cisco Switch Info](https://github.com/kalabasa01/get-cswitchinfo){:target="_blank" rel="noopener noreferrer"}
+- <a href="[https://example.com](https://github.com/kalabasa01/get-cswitchinfo)" target="_blank" rel="noopener noreferrer">Get Cisco Switch Info</a>
 - [Get In-Active Security Group](https://github.com/kalabasa01/get-inactive-secgroup){:target="_blank" rel="noopener noreferrer"}
 - [Get In-Active Distro Group](https://github.com/kalabasa01/get-inactive-distrogroup){:target="_blank" rel="noopener noreferrer"}
 - [Get Broadcast-Storm](https://github.com/kalabasa01/get-broadcast-storm){:target="_blank" rel="noopener noreferrer"}

@@ -1,28 +1,26 @@
-<h1>Hi!</h1>
+<h1>Hello World!</h1>
 
 Welcome to my Webpage! <br />
 Feel free to know more about my skills and projects.
 
 **Visit my Github Account:**
-[kalabasa01](https://github.com/kalabasa01)
+<a href="https://github.com/kalabasa01" target="_blank" rel="noopener noreferrer">kalabasa01</a>
 
 
 <h2>Profession:</h2>
 
-- System Administrator
 - System Engineer
-- Cloud Engineer
-
+- Network Administrator
   
 <h2>System Administration Projects:</h2>
 
 - <a href="https://github.com/kalabasa01/get-cswitchinfo" target="_blank" rel="noopener noreferrer">Get Cisco Switch Info</a>
-- [Get In-Active Security Group](https://github.com/kalabasa01/get-inactive-secgroup){:target="_blank" rel="noopener noreferrer"}
-- [Get In-Active Distro Group](https://github.com/kalabasa01/get-inactive-distrogroup){:target="_blank" rel="noopener noreferrer"}
-- [Get Broadcast-Storm](https://github.com/kalabasa01/get-broadcast-storm){:target="_blank" rel="noopener noreferrer"}
-- [Get Remote Computer Info](https://github.com/kalabasa01/get-remotepc-info){:target="_blank" rel="noopener noreferrer"}
-- [Scripts for Daily Use](https://github.com/kalabasa01/Scripts-for-Daily-use){:target="_blank" rel="noopener noreferrer"}
-  - [Anydesk Reset](https://github.com/kalabasa01/Scripts-for-Daily-use/tree/main/Anydesk%20Reset){:target="_blank" rel="noopener noreferrer"}
+- <a href="https://github.com/kalabasa01/get-inactive-secgroup" target="_blank" rel="noopener noreferrer">Get In-Active Security Group</a>
+- <a href="https://github.com/kalabasa01/get-inactive-distrogroup" target="_blank" rel="noopener noreferrer">Get In-Active Distro Group</a>
+- <a href="https://github.com/kalabasa01/get-broadcast-storm" target="_blank" rel="noopener noreferrer">Get Broadcast-Storm</a>
+- <a href="https://github.com/kalabasa01/get-remotepc-info" target="_blank" rel="noopener noreferrer">Get Remote Computer Info</a>
+- <a href="https://github.com/kalabasa01/Scripts-for-Daily-use" target="_blank" rel="noopener noreferrer">Scripts for Daily Use</a>
+  - <a href="https://github.com/kalabasa01/Scripts-for-Daily-use/tree/main/Anydesk%20Reset" target="_blank" rel="noopener noreferrer">Anydesk Reset</a>
 
 
 <h2> 🤳 Connect with me:</h2>

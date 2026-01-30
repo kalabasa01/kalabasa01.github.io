@@ -21,6 +21,8 @@ Feel free to know more about my skills and projects.
 - [Get In-Active Distro Group](https://github.com/kalabasa01/get-inactive-distrogroup)
 - [Get Broadcast-Storm](https://github.com/kalabasa01/get-broadcast-storm)
 - [Get Remote Computer Info](https://github.com/kalabasa01/get-remotepc-info)
+- [Scripts for Daily Use](https://github.com/kalabasa01/Scripts-for-Daily-use)
+  - [Anydesk Reset](https://github.com/kalabasa01/Scripts-for-Daily-use/tree/main/Anydesk%20Reset)
 
 
 <h2> 🤳 Connect with me:</h2>

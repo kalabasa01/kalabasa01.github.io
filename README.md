@@ -11,6 +11,7 @@ Feel free to know more about my skills and projects.
 
 - System Engineer
 - Network Administrator
+- Linux Administrator
   
 <h2>System Administration Projects:</h2>
 

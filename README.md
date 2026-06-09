@@ -21,6 +21,7 @@ Feel free to know more about my skills and projects.
 - <a href="https://github.com/kalabasa01/get-broadcast-storm" target="_blank" rel="noopener noreferrer">Get Broadcast-Storm</a>
 - <a href="https://github.com/kalabasa01/get-remotepc-info" target="_blank" rel="noopener noreferrer">Get Remote Computer Info</a>
 - <a href="https://github.com/kalabasa01/Windows-Security-Scanner" target="_blank" rel="noopener noreferrer">Windows Security Scanner</a>
+- <a href="https://github.com/kalabasa01/remote-multiple-server" target="_blank" rel="noopener noreferrer">Remote Multiple Server</a>
 - <a href="https://github.com/kalabasa01/Scripts-for-Daily-use" target="_blank" rel="noopener noreferrer">Scripts for Daily Use</a>
   - <a href="https://github.com/kalabasa01/Scripts-for-Daily-use/tree/main/Anydesk%20Reset" target="_blank" rel="noopener noreferrer">Anydesk Reset</a>
 
